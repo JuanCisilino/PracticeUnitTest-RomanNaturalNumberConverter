@@ -2,7 +2,6 @@ package com.frost.romannaturalnumberconverter
 
 import junit.framework.TestCase.assertEquals
 import org.junit.Test
-import java.util.stream.Collectors
 
 class RomanNumbersTest {
 
